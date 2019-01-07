@@ -2,6 +2,7 @@ Shopping list
 --------------
 - shoes
 - coat
+- camera
 
 Picnic list
 ------------
